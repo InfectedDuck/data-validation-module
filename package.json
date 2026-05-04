@@ -1,0 +1,13 @@
+{
+  "name": "data-validation-module",
+  "version": "1.0.0",
+  "description": "Data validation module for email, password, and phone number validation",
+  "main": "validation.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
